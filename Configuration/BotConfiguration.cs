@@ -9,5 +9,12 @@ namespace LambdaBot.Configuration
     {
         public Uri PirateApiBaseUri { get; set; }
         public string BotToken { get; init; }
+
+        public BotConfiguration()
+        {
+            Uri uri = new Uri("");
+            PirateApiBaseUri = uri;
+            BotToken = string.Empty;
+        }
     }
 }
