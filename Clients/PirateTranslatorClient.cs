@@ -35,6 +35,7 @@ namespace LambdaBot.Clients
             response.EnsureSuccessStatusCode();
 
             var result = await response.Content.ReadAsStringAsync(cancellationToken);
+
             return JsonConvert.DeserializeObject<TranslateResponse>(result, _settings);
         }
     }
