@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NNEvA2n9R9cuzfqbwxChRxJjB2QWpuDDH1l9Ncjv81cdLufrZG+9VA9TN0h3Qwof7de/+XeGrORxR7PTKPb55w==",
+  "dgSpecHash": "tki7owtmizDkifq4ZeNmTCfYxz5ZN2Gw4Ev5dAYfYb4mJPodukOWW4dkmtfw+Y3lP8FVT0LUftCEz0YqRGtXdg==",
   "success": true,
   "projectFilePath": "/Users/francisdecena/project/LambdaBot/src/LambdaBot/LambdaBot.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,10 @@
     "/Users/francisdecena/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
     "/Users/francisdecena/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
     "/Users/francisdecena/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512",
-    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.1/microsoft.netcore.app.crossgen2.osx-x64.6.0.1.nupkg.sha512"
+    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.1/microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/francisdecena/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.1/microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.1/microsoft.netcore.app.crossgen2.osx-x64.6.0.1.nupkg.sha512",
+    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.1/microsoft.netcore.app.host.linux-x64.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }
